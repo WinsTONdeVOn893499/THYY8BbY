@@ -6,7 +6,6 @@
 !tsconfig.json
 !docs
 !CHANGELOG.md
-!LICENSE
 !README.md
 !frontend
 frontend/node_modules
