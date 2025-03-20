@@ -18,7 +18,6 @@ This module runs concurrently with the Introduction to Communication Design hist
 
 
 ##Aims
-
 The essential aims of this module are:
 
 + To introduce the formal principles of interaction design, including: sketching, visualisation, paper-prototyping and digital-prototyping.
