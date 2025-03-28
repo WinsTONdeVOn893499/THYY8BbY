@@ -89,7 +89,6 @@ dockers:
       - "--label=org.opencontainers.image.created={{.Date}}"
       - "--label=org.opencontainers.image.title={{.ProjectName}}"
       - "--label=org.opencontainers.image.revision={{.FullCommit}}"
-      - "--label=org.opencontainers.image.version={{.Version}}"
     
   - image_templates:
       - "{{ .Env.DOCKER_USERNAME }}/ddns-go:{{ .Tag }}-arm64"
