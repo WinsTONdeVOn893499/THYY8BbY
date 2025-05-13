@@ -26,7 +26,6 @@ integration/ng_update_migrations/node_modules
 integration/ng-add-localize/node_modules
 integration/nodenext_resolution/node_modules
 integration/platform-server/node_modules
-integration/platform-server-hydration/node_modules
 integration/service-worker-schema/node_modules
 integration/side-effects/node_modules
 integration/standalone-bootstrap/node_modules
